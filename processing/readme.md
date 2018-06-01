@@ -1,5 +1,5 @@
 # Remote control using face detection
-### Author Oancea Maria-Nicoleta
+### Author: Oancea Maria-Nicoleta
 
 ![alt text](https://github.com/oanceamaria/smart-robot/blob/master/processing/openCV.png "Remote control using face detection")
 
